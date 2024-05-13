@@ -1,0 +1,30 @@
+[
+  {
+    "firstName": "f1",
+    "lastName": "l1",
+    "login": "l-1",
+    "password": "1",
+    "token": "452c2694-2c14-7709-34a5-2fe1dce9420f"
+  },
+  {
+    "firstName": "f1",
+    "lastName": "l1",
+    "login": "l-2",
+    "password": "p2",
+    "token": "e45d6461-c832-59b8-52ec-2dbf72c2273c"
+  },
+  {
+    "firstName": "f1",
+    "lastName": "l1",
+    "login": "l-3",
+    "password": "p3",
+    "token": "419fc495-293c-41fc-9856-781b0f94d551"
+  },
+  {
+    "firstName": "f1",
+    "lastName": "l1",
+    "login": "l-4",
+    "password": "p4",
+    "token": "8923c831-2f3c-4e37-a634-86a252a96049"
+  }
+]
